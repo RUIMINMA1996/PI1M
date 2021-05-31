@@ -20,7 +20,7 @@ p-SMILES.
 
 The synthetic accessibility score is calculated using Schuffenhauer’s SA score (https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-1-8), a heuristic estimate of how hard (10) or how easy (1) it is to synthesize a given molecule. The SA score is added into the PI1M_v2.csv, and the statistics of SA score is shown in figure below.
 
-![alt text](https://github.com/RUIMINMA1996/PI1M/blob/main/sa_PI1M.png)
+![alt text](https://github.com/RUIMINMA1996/PI1M/blob/master/sa_PI1M.png)
 
 ## Reference
 
